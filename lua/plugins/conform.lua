@@ -15,6 +15,7 @@ return {
 		},
 		formatters_by_ft = {
 			go = { "goimports", "gofmt" },
+			hcl = { "hcl" },
 			javascript = { "biome" },
 			lua = { "stylua" },
 			markdown = { "mdformat" },

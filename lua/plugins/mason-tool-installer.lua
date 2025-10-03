@@ -7,6 +7,7 @@ return {
 		ensure_installed = {
 			"ansible-lint", -- ansible linter
 			"goimports", -- go formatter
+			"hclfmt", -- hcl formatter
 			"isort", -- python formatter
 			"mdformat", -- markdown formatter
 			"ruff", -- python formatter/linter
