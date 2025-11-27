@@ -38,7 +38,7 @@ return {
 		vim.lsp.enable("marksman")
 
 		-- python
-		vim.lsp.enable("basedpyright")
+		vim.lsp.enable("ty")
 
 		-- terraform
 		vim.lsp.enable("terraformls")
